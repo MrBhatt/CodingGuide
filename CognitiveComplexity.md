@@ -1,1 +1,1 @@
-# CodingGuide
+# Cognitive Complexity
