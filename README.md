@@ -1,1 +1,1 @@
-"# CodingGuide"
+# CodingGuide
